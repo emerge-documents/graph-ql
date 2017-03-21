@@ -1,0 +1,7 @@
+{
+	"root": "./",
+	"language": "en",
+	"pdf": {
+		"fontSize": 12
+	}
+}

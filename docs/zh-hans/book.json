@@ -1,0 +1,8 @@
+{
+	"root": "./",
+	"language": "zh-hans",
+	"pdf": {
+		"fontSize": 12,
+		"fontFamily": "微软雅黑"
+	}
+}
